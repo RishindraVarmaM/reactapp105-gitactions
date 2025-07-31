@@ -8,6 +8,7 @@ function App(){
 
     <p>This is a simple homepge deployed on GitHub Actions using Vite.
     </p>
+    <h1>Done with Git Pages and Git Actions</h1>
     </div>
 
 );
